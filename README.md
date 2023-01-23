@@ -58,6 +58,8 @@ Stops sending crash reports to Microsoft.
 "telemetry.enableCrashReporter": false
 ```
 
+Alternatively, use [VSCodium](https://vscodium.com), a FOSS version with telemetry disabled by default.
+
 #### Extensions
 Each extension may be collecting their own usage data and you have to disable
 them manually per extension.
